@@ -1,0 +1,5 @@
+{
+  "name": "Insta follow Analyser",
+  "description": "A privacy-focused tool to analyze Instagram connections. Use as a web app with file uploads, or use our direct-import script to analyze without downloading zip files.",
+  "requestFramePermissions": []
+}
